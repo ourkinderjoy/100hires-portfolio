@@ -18,12 +18,12 @@
 - Never created a GitHub repository before → followed the official guide at github.com
 
 ## About Me
-My name is Adila. I have a background in coding and a strong interest
-in growth marketing. I believe the combination of technical skills and
-marketing mindset is a rare and valuable asset.
+I'm Adila, based in Lampung, Indonesia. I've been coding as a hobby 
+for a while now, and lately I've been drawn to growth marketing — 
+I find it fascinating how data and creativity work together to grow 
+a product.
 
-This project is not just about meeting the requirements — it is proof
-that I can learn fast, follow instructions carefully, and push through
-challenges without giving up.
+I won't pretend this was all easy. Some steps were new to me, but 
+I figured it out. That's kind of how I approach most things.
 
-I am excited to show more in the next steps.
+Looking forward to the next challenge.
