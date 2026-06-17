@@ -17,13 +17,26 @@
 - Not familiar with Cursor IDE → searched for tutorials and followed step-by-step guidance
 - Never created a GitHub repository before → followed the official guide at github.com
 
+## Step 2 - Research Project
+Topic chosen: AI-powered SEO content production for B2B SaaS
+
+What I did:
+- Found 10 high-signal experts in AI SEO
+- Collected their LinkedIn posts and YouTube content
+- Organized everything in the /research folder
+
+Repository structure:
+- /research/sources.md - all 10 experts with links and annotations
+- /research/linkedin-posts/ - posts organized by author
+- /research/youtube-transcripts/ - transcripts by video
+
 ## About Me
-I'm Adila, based in Lampung, Indonesia. I've been coding as a hobby 
-for a while now, and lately I've been drawn to growth marketing — 
-I find it fascinating how data and creativity work together to grow 
+I'm Adila, based in Lampung, Indonesia. I've been coding as a hobby
+for a while now, and lately I've been drawn to growth marketing —
+I find it fascinating how data and creativity work together to grow
 a product.
 
-I won't pretend this was all easy. Some steps were new to me, but 
+I won't pretend this was all easy. Some steps were new to me, but
 I figured it out. That's kind of how I approach most things.
 
 Looking forward to the next challenge.
