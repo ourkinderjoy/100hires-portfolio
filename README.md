@@ -17,18 +17,42 @@
 - Not familiar with Cursor IDE → searched for tutorials and followed step-by-step guidance
 - Never created a GitHub repository before → followed the official guide at github.com
 
-## Step 2 - Research Project
-Topic chosen: AI-powered SEO content production for B2B SaaS
+---
 
-What I did:
+## Stage 2 - Research Project
+
+**Topic chosen:** AI-powered SEO content production for B2B SaaS
+
+**What I did:**
 - Found 10 high-signal experts in AI SEO
 - Collected their LinkedIn posts and YouTube content
 - Organized everything in the /research folder
 
-Repository structure:
+**Repository structure:**
 - /research/sources.md - all 10 experts with links and annotations
 - /research/linkedin-posts/ - posts organized by author
 - /research/youtube-transcripts/ - transcripts by video
+
+---
+
+## Stage 3 - Playbook / SOP
+
+**Topic:** AI-powered SEO content production for B2B SaaS
+
+**What I built:**
+- `/research/playbook.md` - Full SOP/Playbook with original analysis
+
+**Playbook includes:**
+- 8 core recommendations with cited sources
+- 3 expert disagreements with my own judgment
+- 2 ideas I rejected and why
+- 1 original framework I developed (Enemy Content Framework)
+- Honest weaknesses of the playbook
+- Which expert I would not recommend and why
+
+**Completed:** August 2026
+
+---
 
 ## About Me
 I'm Adila, based in Lampung, Indonesia. I've been coding as a hobby
